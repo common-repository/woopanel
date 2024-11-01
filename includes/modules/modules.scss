@@ -1,0 +1,19 @@
+@mixin clearfix() {
+  &::after {
+    display: block;
+    content: "";
+    clear: both;
+  }
+}
+
+.add-shipping-method {
+	background-color: red;
+	
+	.row {
+		margin-bottom: 20px;
+	}
+}
+
+
+@import "price-matrix/style";
+@import "color-swatches/style";

@@ -1,0 +1,38 @@
+#woopanel-results-table th { font-weight: bold; }
+#woopanel-results-table tbody tr:nth-child(odd) { background-color: #F9F9F9; }
+.woopanel-second, .woopanel-third, .woopanel-fourth { text-align: center !important; }
+#woopanel-details-view { table-layout: fixed; }
+.woopanel-old-val { background-color: #fdd; }
+.woopanel-new-val { background-color: #cfc; }
+.woopanel-change { width: 400px !important; }
+.woopanel-slider { width: 23em; }
+.woopanel-progress-wrap { width: 95%; height: 12px; background-color: #e4e4e4; }
+.woopanel-progress { width: 0%; height: 100%; background-color: #0073aa; }
+#woopanel-search-replace-wrap { margin-top: 10px; }
+.woopanel-description { display: block; margin-top: 6px !important; color: #444 !important; }
+#woopanel-nav-tab-wrapper { margin-top: 0 !important; padding: 0 0 0 10px !important; font-size: 23px !important; }
+#woopanel-help-heading { font-size: 1.3em !important; padding: 0 !important; }
+.woopanel-processing-wrap { background: #fff; padding: 16px 16px 32px; overflow: auto; border-top: 1px solid #eae9e9; margin: 20px -12px -12px -12px; }
+.woopanel-spinner { margin: -3px 0 0 0; }
+#select_tables { width: 357px; height: 150px; }
+#woopanel-main { width: 800px; min-height: 872px; position: relative; padding-top: 10px; }
+#woopanel-sidebar-wrap { width: 292px; position: absolute; right: -312px; }
+#woopanel-upgrade { background-color: #23282d; padding: 30px; }
+#woopanel-upgrade-form .interesting { color: #666; }
+#woopanel-upgrade a { display: block; width: 100%; height: 100%; text-decoration: none; color: #fff; }
+#woopanel-upgrade img { width: 110px; height: auto; display: block; margin: 0 auto; }
+#woopanel-upgrade h1 { font-size: 30px; font-weight: bold; color: #fff; text-align: center; }
+#woopanel-upgrade ul { font-size: 16px; margin-left: 30px; }
+#woopanel-upgrade ul li { margin: 5px 0 10px 0; }
+#woopanel-upgrade ul li span { margin-left: -31px; font-size: 26px; margin-right: 6px; }
+#woopanel-upgrade-form { background-color: #fff; padding: 20px; }
+#woopanel-upgrade-form h1 { margin-top: 0; padding: 0; font-weight: bold; color: #444; }
+#woopanel-upgrade-form input[type="text"], input[type="email"] { width: 90%; margin-bottom: 10px; }
+#woopanel-upgrade-form .promise { color: #a5a5a5; }
+.woopanel-stars { margin: 15px auto 0 auto; color: #444; text-align: center; }
+.woopanel-review-details h3 { font-size: 22px; font-weight: normal; text-align: center; margin-bottom: 15px; color: #444; }
+.woopanel-review-details a { color: #666; text-decoration: none; }
+.woopanel-review-avatar { border-radius: 90%; width: 65px; height: auto; float: left; margin-right: 15px; margin-left: 50px; }
+.woopanel-review-author { display: block; padding-top: 12px; }
+#woopanel-tabs { width: 100%; min-width: 463px; float: left; margin-bottom: 20px; }
+#woopanel-table-select { width:25em; height: 180px; }

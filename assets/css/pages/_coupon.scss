@@ -1,0 +1,19 @@
+#m-listtable-shop_coupon {
+	mark {
+		&.coupon-types-percent {
+			background: #c8d7e1 !important;
+			color: #2e4453 !important;
+		}
+		
+		&.coupon-types-fixed_cart {
+		    background-color: #f8dda7 !important;
+			color: #94660c !important;
+		}
+		
+		&.coupon-types-fixed_product {
+			color: #777;
+			background: #e5e5e5;
+		}
+	
+	}
+}

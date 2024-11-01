@@ -1,0 +1,87 @@
+#list-reviews-table,
+#list-comments-table {
+	.column-avatar {
+	    width: 55px;
+		min-width: inherit;
+		text-align: center;
+	}
+	
+	.column-title {
+		strong {
+			a {
+				margin-bottom: 5px;
+			}
+		}
+	}
+	
+	.column-comment {
+		.spam,
+		.trash {
+			a {
+				color: #a00;
+			}
+			
+			&:hover {
+				a {
+					color: #dc3232;
+				}
+			}
+		}
+		
+		.unapproved {
+			a {
+				color: #d98500;
+			}
+		}
+		
+		.approve {
+			a {
+			    color: #006505;
+			}
+		}
+	}
+	
+	.column-response_to {
+		vertical-align: top;
+		
+		.response-links {
+			.comments-edit-item-link {
+				display: block;
+				font-weight: 600;
+				margin-bottom: 5px;
+			}
+		}
+	}
+	
+	.column-submitted_on {
+		vertical-align: top;
+	}
+	
+	.tr-status-approve {
+		td {
+			background-color: #fef7f1;
+		}
+	}
+	
+	.wpl-datatable__body {
+		.wpl-datatable__row_cmhide {
+			background-color: #faf9fc;
+		}
+		
+		tr {
+			&.td-white {	
+				td {
+					background-color: #fff;
+				}
+			}
+			
+			.comment-star {
+				margin-top: 5px;
+				color: orange;
+			}
+		}
+	}
+	
+}
+
+

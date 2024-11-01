@@ -1,0 +1,118 @@
+#nbt-repeater {
+	.repeater-row {
+	    margin-left: 30px;
+		border: 1px solid #e5e5e5;
+		box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+		margin-bottom: 10px;
+		
+		.nbt-repeater-order {
+			cursor: move;
+			
+			p {
+				margin-bottom: 0;
+				
+				label {
+					font-weight: 700;
+					margin-bottom: 5px;
+					display: block;
+					margin-top: 10px;
+				}
+			}
+		}
+		
+		&.open {
+			.repeater-heading {
+				.nbt-toggle-indicator {
+					&:before {
+						content: "\f142";
+					}
+				}
+			}
+			
+			.repeater-content {
+				border-top: 1px solid #e5e5e5;
+			}
+		}
+	}
+
+	.row-heading {
+	    margin-left: 0;
+		padding: 0 15px;
+		background: #fafafa;
+		color: #000;
+	}
+	
+	.faq-action-row {
+		margin-top: 5px;
+		margin-bottom: 10px;
+		
+		.button-link {
+			font-size: 13px;
+		}
+		
+		.button-link-delete {
+			color: #a00;
+		}
+	}
+	
+	.repeater-heading {
+		cursor: pointer;
+		background: #fafafa;
+		color: #23282d;
+		padding: 10px 0px 10px 15px;
+		font-weight: 700;
+		
+		span {
+			color: #666;
+		}
+		
+		.nbt-repeater-arrow {
+			float: right;
+			position: relative;
+			border: 0;
+			background: transparent;
+			
+			span {
+				color: #666;
+				
+				&:before {
+					content: "\f140";
+					font: normal 20px/1 dashicons;
+					speak: none;
+					display: block;
+					text-decoration: none !important;
+					position: relative;
+					top: 0px;
+				}
+			}
+		}
+	}
+	
+	.repeater-content {
+		display: none;
+	    padding: 10px 15px;
+		
+		p {
+			margin: 0;
+			padding: 0;
+			
+			label {
+				font-weight: 700;
+				margin-bottom: 5px;
+				display: block;
+				margin-top: 10px;
+			}
+		}
+	}
+}
+
+span.shortcode > input {
+    font-family: Consolas, Monaco, monospace;
+    background: inherit;
+    color: inherit;
+    font-size: 12px;
+    border: none;
+    box-shadow: none;
+    padding: 4px 8px;
+    margin: 0;
+}

@@ -1,0 +1,3153 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"POT-Creation-Date: 2019-05-27 16:16+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/woopanel-admin-options.php:12
+msgid "Dashboard page"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:22
+msgid "Dashboard Logo"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:29
+msgid "Dashboard Copyright"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:36 includes/helper/woopanel-options.php:28
+msgid "Shop Logo"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:43
+msgid "Woocommerce Enable"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:50
+msgid "Allow User to Customize Dashboard"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:57
+msgid "Block <code>wp-admin</code> Access for Non-Admins"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:93 admin/woopanel-admin-options.php:179
+#: views/settings.php:18
+msgid "WooPanel Settings"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:94
+#: includes/classes/class-shortcodes.php:330 woopanel.php:155
+msgid "WooPanel"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:161
+msgid "Select a page&hellip;"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:192 templates/orders/edit.php:729
+#: templates/orders/edit.php:916 templates/orders/edit.php:1055
+#: views/metaboxes/product/html-product-data-variations.php:74
+msgid "Save changes"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:221
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:222
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:223
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:224
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:225
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:226
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:227
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:228
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:229
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:230
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: admin/woopanel-admin-options.php:267
+msgid "Upload"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:77
+#: includes/helper/woopanel-list-table.php:370
+#: includes/pages/woopanel-comment.php:266
+msgid "Restore"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:78
+#: includes/helper/woopanel-list-table.php:385
+#: includes/pages/woopanel-comment.php:270 templates/orders/edit.php:605
+#: views/edit.php:209
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:80
+msgid "Move to Trash"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:107
+#: includes/classes/class-shortcodes.php:217
+#: includes/pages/woopanel-customer.php:840
+#: includes/pages/woopanel-customer.php:921 templates/comment/edit.php:120
+#: templates/orders/edit.php:602 views/attribute-child.php:68
+#: views/attribute-parent.php:81 views/settings.php:24 views/settings.php:80
+#: views/taxonomy-edit.php:77
+msgid "Update"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:128
+#: includes/helper/woopanel-post-function.php:240
+msgid "You can not access this post."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:162
+msgid "Publish"
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:202
+msgid "The item you are trying to move to the Trash no longer exists."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:205
+#: includes/classes/class-list-post-table.php:228
+#: includes/classes/class-list-post-table.php:246
+msgid "Invalid post type."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:208
+#: includes/classes/class-list-post-table.php:326
+msgid "Sorry, you are not allowed to move this item to the Trash."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:212
+#, php-format
+msgid "You cannot move this item to the Trash. %s is currently editing."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:216
+#: includes/classes/class-list-post-table.php:334
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:225
+msgid "The item you are trying to restore from the Trash no longer exists."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:231
+#: includes/classes/class-list-post-table.php:345
+msgid "Sorry, you are not allowed to restore this item from the Trash."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:234
+#: includes/classes/class-list-post-table.php:348
+msgid "Error in restoring from Trash."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:243
+msgid "This item has already been deleted."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:249
+#: includes/classes/class-list-post-table.php:360
+msgid "Sorry, you are not allowed to delete this item."
+msgstr ""
+
+#: includes/classes/class-list-post-table.php:254
+#: includes/classes/class-list-post-table.php:257
+#: includes/classes/class-list-post-table.php:364
+#: includes/classes/class-list-post-table.php:367
+msgid "Error in deleting."
+msgstr ""
+
+#: includes/classes/class-list-table.php:207
+#: includes/classes/class-taxonomy.php:237
+#: includes/pages/woopanel-product-attributes.php:386
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: includes/classes/class-list-table.php:351
+#: includes/classes/class-taxonomy.php:348
+#: includes/helper/woopanel-list-table.php:204
+#: includes/pages/woopanel-comment.php:605
+#: includes/pages/woopanel-customer.php:325
+#: includes/pages/woopanel-product-attributes.php:539
+#: views/metaboxes/product/html-product-data-variations.php:77
+#, php-format
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/classes/class-list-table.php:400
+#: includes/classes/class-taxonomy.php:373
+#: includes/pages/woopanel-comment.php:645
+#: includes/pages/woopanel-customer.php:365
+#: includes/pages/woopanel-product-attributes.php:564
+msgid "Filter"
+msgstr ""
+
+#: includes/classes/class-list-table.php:564
+#: includes/classes/class-taxonomy.php:492
+#: includes/helper/woopanel-list-table.php:333
+#: includes/pages/woopanel-product-attributes.php:418
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/classes/class-list-table.php:574
+#: includes/classes/class-taxonomy.php:502
+#: includes/helper/woopanel-list-table.php:342
+#: includes/pages/woopanel-product-attributes.php:428
+msgid "Apply"
+msgstr ""
+
+#: includes/classes/class-list-table.php:588
+#: includes/classes/class-taxonomy.php:516
+#: includes/pages/woopanel-product-attributes.php:405
+#, php-format
+msgid "Selected %s:"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:111
+#: includes/classes/dashboard/class-dashboard-report-order.php:81
+msgid "order"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:112
+#: includes/classes/dashboard/class-dashboard-report-order.php:81
+msgid "orders"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:113 includes/woopanel-ajax.php:158
+#: includes/woopanel-ajax.php:211
+msgid "You do not have permission for this action!"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:149
+msgid ""
+"Are you sure you wish to delete this note? This action cannot be undone."
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:150
+msgid "Please enter your note!"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:202
+msgid "Remove this attribute?"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:204
+msgid "Are you sure you want to delete all variations? This cannot be undone."
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:205
+msgid "Last warning, are you sure?"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:206
+msgid "%qty% variation"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:207
+msgid "%qty% variations"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:209
+msgid "Save changes before changing page?"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:210
+#, php-format
+msgid ""
+"Are you sure you want to link all variations? This will create a new "
+"variation for each and every possible combination of variation attributes "
+"(max %d per run)."
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:211
+msgid "variation added"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:212
+msgid "variations added"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:213
+msgid "No variations added"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:214
+msgid "This is first page"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:215
+msgid "This is last page"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:216
+msgid "Save attribute"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:218
+msgid "Are you sure you want to remove this variation?"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:293
+#: includes/helper/woopanel-menus.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:295
+#: includes/helper/woopanel-menus.php:35
+msgid "Articles"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:297
+#, php-format
+msgid "Edit article %s"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:297
+msgid "Add new article"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:300
+#: includes/pages/woopanel-product-categories.php:50
+#: includes/pages/woopanel-product-categories.php:84
+#: includes/pages/woopanel-product-tags.php:46 includes/woocommerce.php:12
+msgid "Products"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:302
+msgid "Edit product"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:302 templates/layout-header.php:85
+msgid "Add new product"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:305
+#: includes/pages/woopanel-customer.php:27 includes/woocommerce.php:21
+msgid "Orders"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:307
+#, php-format
+msgid "View order: %s"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:310 includes/woocommerce.php:30
+msgid "Coupons"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:312
+#, php-format
+msgid "Edit coupon %s"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:312 templates/layout-header.php:93
+msgid "Add new coupon"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:315
+#: includes/pages/woopanel-customer.php:12 includes/woocommerce.php:39
+msgid "Customers"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:317
+msgid "View Customer"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:320
+#: includes/helper/woopanel-menus.php:113
+#: includes/pages/woopanel-article.php:24
+#: includes/pages/woopanel-comment.php:22
+#: includes/pages/woopanel-comment.php:42
+#: includes/pages/woopanel-product.php:30
+msgid "Comments"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:321
+msgid "Edit Comment"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:323
+#: includes/pages/woopanel-review.php:11 includes/woocommerce.php:89
+msgid "Reviews"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:324
+msgid "Edit Review"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:326
+msgid "My Profile"
+msgstr ""
+
+#: includes/classes/class-shortcodes.php:328
+#: includes/helper/woopanel-menus.php:53 woopanel.php:172 woopanel.php:199
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:19
+#: includes/pages/woopanel-customer.php:25
+#: includes/pages/woopanel-customer.php:706
+#: includes/pages/woopanel-product-attributes.php:29
+#: includes/pages/woopanel-product-attributes.php:48
+#: templates/comment/edit.php:40 views/attribute-child.php:23
+#: views/attribute-parent.php:18 views/attribute-parent.php:69
+#: views/metaboxes/product/html-product-attribute.php:74
+#: views/metaboxes/product/html-product-data-general.php:113
+#: views/metaboxes/product/html-product-variation-admin.php:653
+#: views/taxonomy-add.php:17 views/taxonomy-edit.php:17
+msgid "Name"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:23 includes/pages/woopanel-coupon.php:25
+#: includes/pages/woopanel-product-attributes.php:37
+#: views/attribute-child.php:49
+#: views/metaboxes/product/html-product-variation-admin.php:343
+#: views/metaboxes/product/html-product-variation-admin.php:639
+#: views/taxonomy-add.php:41 views/taxonomy-edit.php:43
+msgid "Description"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:27
+#: includes/pages/woopanel-product-attributes.php:33
+#: includes/pages/woopanel-product-attributes.php:52
+#: views/attribute-child.php:36 views/attribute-parent.php:31
+#: views/taxonomy-add.php:29 views/taxonomy-edit.php:30
+msgid "Slug"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:31
+#: includes/pages/woopanel-product-attributes.php:41
+msgid "Count"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:37
+#: includes/classes/class-taxonomy.php:64
+#: includes/helper/woopanel-post-function.php:76
+#: includes/pages/woopanel-product-attributes.php:111
+#: views/metaboxes/product/html-product-download.php:14
+#: views/metaboxes/product/html-product-variation-download.php:13
+msgid "Delete"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:60
+#: includes/classes/class-taxonomy.php:62
+#: includes/helper/woopanel-list-table.php:359
+#: includes/helper/woopanel-permalinks.php:91
+#: includes/pages/woopanel-comment.php:276
+#: includes/pages/woopanel-order.php:451
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:69
+#: includes/helper/woopanel-list-table.php:406
+msgid "View"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:142 templates/orders/edit.php:16
+msgid "None"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:173
+msgid ""
+"Categories, unlike tags, can have a hierarchy. You might have a Jazz "
+"category, and under that have children categories for Bebop and Big Band. "
+"Totally optional."
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:175
+msgid ""
+"Assign a parent term to create a hierarchy. The term Jazz, for example, "
+"would be the parent of Bebop and Big Band."
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:239
+#: includes/pages/woopanel-product-attributes.php:388
+msgid "Not found"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:362
+#: includes/pages/woopanel-product-attributes.php:553
+msgid "Search Tags"
+msgstr ""
+
+#: includes/classes/class-taxonomy.php:362
+#: includes/pages/woopanel-product-attributes.php:553
+msgid "Search Categories"
+msgstr ""
+
+#: includes/classes/class-template.php:15
+msgid "You have no permission to view this page"
+msgstr ""
+
+#: includes/classes/class-template.php:15
+msgid "No permission"
+msgstr ""
+
+#: includes/fields/woopanel-form-fields.php:35
+msgid "required"
+msgstr ""
+
+#: includes/fields/woopanel-form-fields.php:119
+#: includes/modules/price-matrix/inc/frontend.php:263
+msgid "Choose an option"
+msgstr ""
+
+#: includes/helper/woopanel-actions.php:55
+msgid "Seller Center Page"
+msgstr ""
+
+#: includes/helper/woopanel-dashboard.php:128
+msgid "This Week"
+msgstr ""
+
+#: includes/helper/woopanel-dashboard.php:129
+msgid "Last Week"
+msgstr ""
+
+#: includes/helper/woopanel-dashboard.php:130
+msgid "This Month"
+msgstr ""
+
+#: includes/helper/woopanel-dashboard.php:131
+msgid "Last Month"
+msgstr ""
+
+#: includes/helper/woopanel-dashboard.php:132
+msgid "Custom Range"
+msgstr ""
+
+#: includes/helper/woopanel-filter.php:33
+#: includes/pages/woopanel-article.php:25
+#: includes/pages/woopanel-customer.php:512 includes/pages/woopanel-faq.php:22
+#: includes/pages/woopanel-order.php:15 includes/pages/woopanel-product.php:31
+#: templates/dashboard/recent-order.php:41
+msgid "Date"
+msgstr ""
+
+#: includes/helper/woopanel-filter.php:36
+msgid "All dates"
+msgstr ""
+
+#: includes/helper/woopanel-filter.php:49
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:44
+#, php-format
+msgid "View all post in &#8220;%s&#8221; inline"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:48
+msgid ", "
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:103
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/helper/woopanel-list-table.php:104
+#, php-format
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/helper/woopanel-list-table.php:105
+#, php-format
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/helper/woopanel-list-table.php:110
+#: includes/helper/woopanel-list-table.php:122
+#: includes/helper/woopanel-list-table.php:135
+msgid "No comments"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:122
+msgid "No approved comments"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:135
+msgid "No pending comments"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:147
+msgid "Unpublished"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:150
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:157
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:159
+#: includes/pages/woopanel-comment.php:341
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:164
+#: includes/pages/woopanel-coupon.php:8
+msgid "Published"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:167
+msgid "Missed schedule"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:169
+msgid "Scheduled"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:172
+msgid "Last Modified"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:240
+msgid "First page"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:250
+msgid "Previous page"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:257
+#: includes/helper/woopanel-list-table.php:260
+msgid "Current Page"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:266
+#, php-format
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:273
+msgid "Next page"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:283
+msgid "Last page"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:331
+msgid "Select bulk action"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:358
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:369
+#, php-format
+msgid "Restore &#8220;%s&#8221; from the Trash"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:376
+#, php-format
+msgid "Move &#8220;%s&#8221; to the Trash"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:377
+#: includes/pages/woopanel-comment.php:272 views/edit.php:206
+msgctxt "verb"
+msgid "Trash"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:384
+#, php-format
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:397
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:398
+#: includes/pages/woopanel-order.php:170
+msgid "Preview"
+msgstr ""
+
+#: includes/helper/woopanel-list-table.php:405
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:44
+msgid "Faqs"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:62 templates/layout-header.php:156
+msgid "Log Out"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:75
+msgid "All Articles"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:82 includes/woocommerce.php:58
+msgctxt "post status"
+msgid "Published"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:89 includes/woocommerce.php:65
+msgctxt "post status"
+msgid "Draft"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:96 includes/woocommerce.php:72
+msgctxt "post status"
+msgid "Trash"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:106
+msgctxt "post"
+msgid "Add New"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:122
+#: includes/pages/woopanel-faq-admin.php:31
+msgid "All FAQs"
+msgstr ""
+
+#: includes/helper/woopanel-menus.php:129
+msgctxt "post status"
+msgid "Add New"
+msgstr ""
+
+#: includes/helper/woopanel-notice.php:37
+#, php-format
+msgid ""
+"%s is inactive. The %sWooCommerce plugin%s must be active for the %s to "
+"work. Please %sinstall & activate WooCommerce%s"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:8
+#: includes/pages/woopanel-coupon.php:123
+#: includes/pages/woopanel-product.php:258 templates/orders/edit.php:519
+msgid "General"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:9
+msgid "General Settings"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:18
+msgid "Shop name"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:23
+msgid "Shop slogan"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:33
+msgid "Live Chat"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:34
+msgid "Live Chat Settings"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:43
+msgid "Position"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:45
+msgid "Header (before \t&lt;/head&gt;)"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:46
+msgid "Footer (before \t&lt;/body&gt;)"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:53
+msgid "Embed Code"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:54
+msgid "Paste embed code here."
+msgstr ""
+
+#: includes/helper/woopanel-options.php:62
+msgid "Customize"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:63
+msgid "Shop Customizer"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:72
+msgid "Dashboard Header Logo"
+msgstr ""
+
+#: includes/helper/woopanel-options.php:145
+#: includes/pages/woopanel-customer.php:450
+msgid "Settings saved."
+msgstr ""
+
+#: includes/helper/woopanel-permalinks.php:65
+#: includes/helper/woopanel-permalinks.php:88
+msgid "Permalink:"
+msgstr ""
+
+#: includes/helper/woopanel-permalinks.php:76
+msgid "Change Permalinks"
+msgstr ""
+
+#: includes/helper/woopanel-permalinks.php:91
+msgid "Edit permalink"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:22
+msgid "Set featured image"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:22
+msgid "Set Image"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:28
+msgid "Click the image to edit or update"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:31
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:33
+msgid "Remove Image"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:76
+msgid "Delete image"
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:81
+msgid "Drag and drop to reorder media files."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:114
+msgid "Sorry, you are not allowed to create pages on this site."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:116
+msgid "Sorry, you are not allowed to create posts or drafts on this site."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:215
+#: includes/helper/woopanel-post-function.php:408
+msgid "updated."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:427
+#: includes/helper/woopanel-post-function.php:468
+msgid "Sorry, you are not allowed to edit pages as this user."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:429
+#: includes/helper/woopanel-post-function.php:470
+msgid "Sorry, you are not allowed to edit posts as this user."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:432
+#: includes/helper/woopanel-post-function.php:473
+msgid "Sorry, you are not allowed to create pages as this user."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:434
+#: includes/helper/woopanel-post-function.php:475
+msgid "Sorry, you are not allowed to create posts as this user."
+msgstr ""
+
+#: includes/helper/woopanel-post-function.php:558
+msgid "Invalid date."
+msgstr ""
+
+#: includes/helper/woopanel-post.php:25
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: includes/helper/woopanel-post.php:28
+msgid "New category name"
+msgstr ""
+
+#: includes/helper/woopanel-post.php:82
+msgctxt "tag delimiter"
+msgid ","
+msgstr ""
+
+#: includes/helper/woopanel-post.php:103
+#: views/metaboxes/product/html-product-data-attributes.php:27
+msgid "Add"
+msgstr ""
+
+#: includes/helper/woopanel-post.php:118
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:47
+msgid "Color"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:48
+#: includes/pages/woopanel-product-categories.php:11
+msgid "Image"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:49
+msgid "Radio"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:50
+msgid "Label"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:82
+msgid ""
+"WooCommerce plugin is not activated. Please install and activate it to use "
+"for plugin <strong>NBT WooCommerce Price Matrix</strong>."
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:134
+msgid "Square"
+msgstr ""
+
+#: includes/modules/color-swatches/color-swatches.php:135
+msgid "Circle"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:59
+#: includes/modules/color-swatches/inc/admin.php:83
+msgid "Style"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:117
+#: includes/modules/color-swatches/inc/admin.php:171
+msgid "Color Swatches"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:172
+#: includes/modules/price-matrix/inc/admin.php:210
+msgid ""
+"Replace front-end dropdowns with a price matrix. This option limits \"Used "
+"for varations\" to 2."
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:203
+msgid "Choose an image"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:204
+msgid "Use image"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:272
+#: includes/modules/color-swatches/inc/admin.php:305
+#: includes/modules/price-matrix/inc/metabox.php:204
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:273
+#: includes/modules/color-swatches/inc/admin.php:306
+#: includes/modules/price-matrix/inc/metabox.php:205
+msgid "Remove image"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:351
+msgid "Select terms"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:362
+msgid "Select all"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:363
+msgid "Select none"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/admin.php:364
+#: includes/woocommerce.php:82 includes/woocommerce.php:159
+msgid "Add new"
+msgstr ""
+
+#: includes/modules/color-swatches/inc/settings.php:21
+#: views/metaboxes/product/html-product-data-shipping.php:40
+#: views/metaboxes/product/html-product-variation-admin.php:581
+msgid "Width"
+msgstr ""
+
+#: includes/modules/color-swatches/tpl/admin/tabs.php:6
+#: includes/modules/price-matrix/tpl/admin/row-repeater-empty.php:2
+msgid ""
+"Before you can use Price Matrix, you need add minimum of two variation "
+"attributes on the <strong>Attributes</strong> tab."
+msgstr ""
+
+#: includes/modules/color-swatches/tpl/admin/tabs.php:7
+#: includes/modules/color-swatches/tpl/admin/woopanel-tabs.php:7
+#: includes/modules/price-matrix/tpl/admin/price-matrix-product.php:75
+#: includes/modules/price-matrix/tpl/admin/row-repeater-empty.php:3
+#: views/metaboxes/product/html-product-data-variations.php:16
+msgid "Learn more"
+msgstr ""
+
+#: includes/modules/color-swatches/tpl/admin/woopanel-tabs.php:6
+msgid ""
+"Before you can use Color Swatches, you need add minimum of two variation "
+"attributes on the <strong>Attributes</strong> tab."
+msgstr ""
+
+#: includes/modules/modules.php:8
+msgid "Allow customers easy enter price for variation product."
+msgstr ""
+
+#: includes/modules/modules.php:14
+msgid ""
+"Change default select box of attributes to something more intuitive: Radio "
+"images, Radio buttons, Color, etc."
+msgstr ""
+
+#: includes/modules/price-matrix/inc/admin.php:61
+#: includes/modules/price-matrix/inc/admin.php:62
+#: includes/modules/price-matrix/inc/admin.php:209
+#: includes/modules/price-matrix/inc/admin.php:463
+#: includes/modules/price-matrix/tpl/admin/admin.php:2
+msgid "Price Matrix"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/admin.php:124
+#: includes/modules/price-matrix/price-matrix.php:101
+msgid ""
+"WooCommerce plugin is not activated. Please install and activate it to use "
+"for plugin <strong>Ajax Drop Down Cart for WooCommerce Wordpress</strong>."
+msgstr ""
+
+#: includes/modules/price-matrix/inc/frontend.php:64
+#: includes/modules/price-matrix/tpl/frontend/price-matrix-4.php:94
+#: includes/modules/price-matrix/tpl/frontend/price-matrix-horizontal-3.php:83
+#: includes/modules/price-matrix/tpl/frontend/price-matrix-vertical-3.php:73
+#: includes/modules/price-matrix/tpl/frontend/price-matrix.php:61
+#: includes/pages/woopanel-order.php:17 templates/orders/edit.php:248
+#: templates/orders/edit.php:366 templates/orders/edit.php:634
+msgid "Total"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/functions.init.php:4
+#: includes/modules/price-matrix/inc/settings.php:26
+#: includes/pages/woopanel-product-categories.php:49
+#: includes/pages/woopanel-product-categories.php:83
+#: includes/pages/woopanel-product-tags.php:45
+msgid "Default"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/functions.init.php:5
+#: includes/modules/price-matrix/inc/settings.php:27
+msgid "Before Tab"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:21
+msgid "Price matrix table position"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:32
+msgid "Hide Additional information"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:36
+msgid "Hide Additional information tab in Product Details"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:39
+msgid "Show calculator text"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:43
+msgid "Show calculator text after Add to cart button"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:46
+msgid "Enable heading"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:50
+msgid "Turn on heading before Price Matrix table"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:53
+msgid "Heading title"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:60
+msgid "Scroll when select price"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:64
+msgid "Scroll the screen to the Price Matrix table when user choose attributes"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:67
+msgid "Display regular & sale price"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:72
+msgid "Display the sale price in the Price Matrix table"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:78
+msgid "Background color of price matrix table"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:85
+msgid "Table Text color"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:92
+msgid "Table Border color"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:102
+msgid "Tooltips background color"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:109
+msgid "Tooltips text color"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:116
+msgid "Tooltips border color"
+msgstr ""
+
+#: includes/modules/price-matrix/inc/settings.php:123
+msgid "Font Size"
+msgstr ""
+
+#: includes/modules/price-matrix/price-matrix.php:86
+msgid "Configure"
+msgstr ""
+
+#: includes/modules/price-matrix/price-matrix.php:87
+msgid "Docs"
+msgstr ""
+
+#: includes/modules/price-matrix/price-matrix.php:88
+msgid "Support"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/price-matrix-product.php:18
+#: includes/modules/price-matrix/tpl/admin/row-repeater.php:14
+#: includes/pages/woopanel-product-attributes.php:537
+#: includes/pages/woopanel-product.php:282
+msgid "Attributes"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/price-matrix-product.php:19
+#: includes/modules/price-matrix/tpl/admin/row-repeater.php:15
+msgid "Direction"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/price-matrix-product.php:74
+#: views/metaboxes/product/html-product-data-variations.php:15
+msgid ""
+"Before you can add a variation you need to add some variation attributes on "
+"the <strong>Attributes</strong> tab."
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/row-repeater.php:6
+msgid ""
+"Currently, Price Matrix only support display maximum is 4 attributes to "
+"price matrix table"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/row-repeater.php:7
+msgid ""
+"By default, attribute at the bottom will not be displayed to the table, it "
+"will just show in selection mode. You can choose which attribute to be shown "
+"in the table by click Show/hide next to it"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/settings.php:20
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/modules/price-matrix/tpl/admin/settings.php:37
+msgid "Save Changes"
+msgstr ""
+
+#: includes/pages/woopanel-article.php:20 includes/pages/woopanel-faq.php:20
+#: includes/pages/woopanel-product.php:23 views/faqs/admin-repeater.php:40
+#: views/faqs/admin-repeater.php:117
+msgid "Title"
+msgstr ""
+
+#: includes/pages/woopanel-article.php:21
+#: includes/pages/woopanel-comment.php:41
+msgid "Author"
+msgstr ""
+
+#: includes/pages/woopanel-article.php:22
+#: includes/pages/woopanel-product.php:28 includes/woocommerce.php:99
+#: views/edit.php:172
+msgid "Categories"
+msgstr ""
+
+#: includes/pages/woopanel-article.php:23
+#: includes/pages/woopanel-product.php:29 includes/woocommerce.php:106
+#: views/edit.php:179
+msgid "Tags"
+msgstr ""
+
+#: includes/pages/woopanel-article.php:67
+msgid "Allow Comments"
+msgstr ""
+
+#: includes/pages/woopanel-comment-ajax.php:32
+#: includes/pages/woopanel-comment.php:251
+msgid "Approve"
+msgstr ""
+
+#: includes/pages/woopanel-comment-ajax.php:37
+#: includes/pages/woopanel-comment.php:252
+msgid "Unapprove"
+msgstr ""
+
+#: includes/pages/woopanel-comment-ajax.php:48
+#: includes/pages/woopanel-comment.php:547
+#, php-format
+msgid "Comment by %s marked as spam."
+msgstr ""
+
+#: includes/pages/woopanel-comment-ajax.php:48
+#: includes/pages/woopanel-comment-ajax.php:62
+#: includes/pages/woopanel-comment.php:547
+#: includes/pages/woopanel-comment.php:548
+msgid "Undo"
+msgstr ""
+
+#: includes/pages/woopanel-comment-ajax.php:62
+#: includes/pages/woopanel-comment.php:548
+#, php-format
+msgid "Comment by %s moved to the trash."
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:23
+msgid "Comment"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:30
+msgid "Pending"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:31
+msgid "Approved"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:32
+msgid "Spam"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:33
+msgid "Trash"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:43
+msgid "In Response To"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:44
+msgid "Submitted On"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:91
+msgid "Comments updated."
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:158
+#: includes/pages/woopanel-coupon.php:93
+#: includes/pages/woopanel-customer.php:507
+#: includes/pages/woopanel-order.php:16 includes/pages/woopanel-order.php:364
+#: templates/comment/edit.php:108 templates/dashboard/recent-order.php:42
+#: views/edit.php:188
+msgid "Status"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:161
+#: includes/pages/woopanel-coupon.php:96 includes/pages/woopanel-order.php:367
+#: templates/dashboard/chart-amount.php:33
+#: templates/dashboard/chart-order.php:33
+msgid "All status"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:251
+msgid "Approve this comment"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:252
+msgid "Unapprove this comment"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:255
+msgid "Mark this comment as spam"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:255
+msgctxt "verb"
+msgid "Spam"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:257
+msgid "Restore this comment from the spam"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:257
+msgid "Not Spam"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:266
+msgid "Restore this comment from the Trash"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:270
+msgid "Delete this comment permanently"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:272
+msgid "Move this comment to the Trash"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:276
+msgid "Edit this comment"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:339
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:342
+msgid "g:i a"
+msgstr ""
+
+#: includes/pages/woopanel-comment.php:633
+msgid "Search comment"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:9
+msgid "Pending Review"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:10
+msgid "Draft"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:22
+msgid "Code"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:23
+msgid "Coupon type"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:24 includes/pages/woopanel-coupon.php:151
+msgid "Coupon amount"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:26
+msgid "Usage / Limit"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:27
+msgid "Expiry date"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:85
+msgid "Edit coupon"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:139
+msgid "Discount type"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:153
+msgid "Value of the coupon."
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:165
+msgid "Allow free shipping"
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:166
+#, php-format
+msgid ""
+"Check this box if the coupon grants free shipping. A <a href=\"%s\" target="
+"\"_blank\">free shipping method</a> must be enabled in your shipping zone "
+"and be set to require \"a valid free shipping coupon\" (see the \"Free "
+"Shipping Requires\" setting)."
+msgstr ""
+
+#: includes/pages/woopanel-coupon.php:182
+msgid "Coupon expiry date"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:24
+#: includes/pages/woopanel-customer.php:714
+msgid "Username"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:26
+#: includes/pages/woopanel-customer.php:753
+#: includes/pages/woopanel-order.php:405 templates/comment/edit.php:49
+msgid "Email"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:28
+msgid "Money Spent"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:29
+msgid "Last Order"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:30
+#: includes/pages/woopanel-customer.php:513
+#: includes/pages/woopanel-order.php:18
+msgid "Actions"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:69
+msgid "My Store"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:77
+msgid "Edit My Profile"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:83
+msgid "Personal Options"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:100
+msgid "Total Money Spent"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:105
+msgid "Total Order Placed"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:106
+#, php-format
+msgid "%s order"
+msgid_plural "%s orders"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/pages/woopanel-customer.php:112
+msgid "List Orders"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:187
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:194
+msgid "Manage Customer"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:353
+msgid "Search customer"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:424
+msgid "Please fill out all password fields."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:427
+msgid "Please enter your current password."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:430
+msgid "Please re-enter your password."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:433
+msgid "New passwords do not match."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:436
+msgid "Your current password is incorrect."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:509
+#: includes/pages/woopanel-order.php:14 templates/dashboard/recent-order.php:40
+msgid "Order"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:510
+msgid "Purchased"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:511
+msgid "Gross Sales"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:525
+#: includes/pages/woopanel-customer.php:548
+#: templates/dashboard/recent-order.php:63 templates/orders/edit.php:583
+msgid "Guest"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:537
+#: includes/pages/woopanel-customer.php:544
+#: includes/pages/woopanel-order.php:159
+#, php-format
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:552
+msgid "by"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:574
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/pages/woopanel-customer.php:583
+msgid "Via"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:601
+#: includes/pages/woopanel-order.php:260
+msgid "Processing"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:609
+#: includes/pages/woopanel-order.php:268
+msgid "Complete"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:626
+msgid "View order"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:667
+msgid "Your Orders List Is Empty"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:716
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:723
+msgid "First Name"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:730
+msgid "Last Name"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:737
+msgid "Display name publicly as"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:745
+msgid "Contact Info"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:760
+msgid "Website"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:767
+msgid "Password change"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:775
+msgid "Current password"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:782
+msgid "New password"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:789
+msgid "Confirm new password"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:854
+msgid "Report Options"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:862
+msgid "Report From"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:863
+#: views/metaboxes/product/html-product-data-general.php:75
+#: views/metaboxes/product/html-product-variation-admin.php:175
+#: views/metaboxes/product/html-product-variation-admin.php:502
+msgctxt "placeholder"
+msgid "From&hellip;"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:870
+msgid "Report To"
+msgstr ""
+
+#: includes/pages/woopanel-customer.php:871
+#: views/metaboxes/product/html-product-data-general.php:91
+#: views/metaboxes/product/html-product-variation-admin.php:193
+#: views/metaboxes/product/html-product-variation-admin.php:506
+msgctxt "placeholder"
+msgid "To&hellip;"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:44
+#: templates/dashboard/chart-order.php:10
+msgid "Chart Orders"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:50
+msgid "Best Sellers"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:56
+#: templates/dashboard/chart-amount.php:10
+msgid "Chart Amount"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:62
+#: templates/dashboard/new-customer.php:7
+msgid "New Customers"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:68
+#: templates/dashboard/best-product.php:7
+msgid "Best Products"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:74
+#: templates/dashboard/recent-order.php:7
+msgid "Recent Orders"
+msgstr ""
+
+#: includes/pages/woopanel-dashboard.php:80
+#: templates/dashboard/recent-review.php:7
+msgid "Recent Reviews"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:22
+msgctxt "post type general name"
+msgid "FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:23
+msgctxt "post type singular name"
+msgid "FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:24
+msgctxt "admin menu"
+msgid "FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:25
+msgctxt "add new on admin bar"
+msgid "Book"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:26
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:27
+msgid "Add New FAQ"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:28
+msgid "New FAQ"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:29
+msgid "Edit FAQ"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:30
+msgid "View FAQ"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:32
+msgid "Search FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:33
+msgid "Parent FAQs:"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:34
+msgid "No FAQs found."
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:35
+msgid "No FAQs found in Trash."
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:51
+msgid "Lists FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq-admin.php:52
+#: includes/pages/woopanel-faq-frontend.php:20
+msgid "Product FAQs"
+msgstr ""
+
+#: includes/pages/woopanel-faq.php:21
+msgid "Shortcode"
+msgstr ""
+
+#: includes/pages/woopanel-faq.php:75 includes/pages/woopanel-product.php:91
+msgid "Allow Reviews"
+msgstr ""
+
+#: includes/pages/woopanel-faq.php:105 includes/pages/woopanel-product.php:209
+msgid "Product name"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:89
+msgid "Order updated."
+msgstr ""
+
+#: includes/pages/woopanel-order.php:168 includes/pages/woopanel-order.php:171
+#: templates/dashboard/recent-order.php:68 templates/orders/edit.php:414
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:187
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:191
+msgid "M j, Y"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:222
+#, php-format
+msgid "Plus %d other note"
+msgid_plural "Plus %d other notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/pages/woopanel-order.php:225
+#, php-format
+msgid "%d note"
+msgid_plural "%d notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/pages/woopanel-order.php:248
+#, php-format
+msgid "via %s"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:277
+msgid "Change status to processing"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:278
+msgid "Change status to on-hold"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:279
+msgid "Change status to completed"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:280
+msgid "Remove personal data"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:311
+msgid "Order status changed by bulk edit:"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:391
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:401
+msgid "Billing details"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:410 templates/orders/edit.php:65
+msgid "Phone"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:415
+msgid "Payment via"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:421
+msgid "Shipping details"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:429
+msgid "Shipping method"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:437
+msgid "Note"
+msgstr ""
+
+#: includes/pages/woopanel-order.php:451
+msgid "Edit this order"
+msgstr ""
+
+#: includes/pages/woopanel-product-ajax.php:117
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/pages/woopanel-product-ajax.php:296
+msgid "Not found for attribute, please add attribute!"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:56
+#: includes/pages/woopanel-product.php:27 views/attribute-parent.php:46
+msgid "Type"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:60
+msgid "Order by"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:64
+msgid "Terms"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:143
+msgid "Configure terms"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:188
+msgid "Term deleted successfully"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:237
+msgid "Term updated successfully"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:267
+msgid "Attribute deleted successfully"
+msgstr ""
+
+#: includes/pages/woopanel-product-attributes.php:320
+msgid "Attribute updated successfully"
+msgstr ""
+
+#: includes/pages/woopanel-product-categories.php:46
+#: includes/pages/woopanel-product-categories.php:80
+#: includes/pages/woopanel-product-tags.php:42
+msgid "Display type"
+msgstr ""
+
+#: includes/pages/woopanel-product-categories.php:51
+#: includes/pages/woopanel-product-categories.php:85
+#: includes/pages/woopanel-product-tags.php:47
+msgid "Subcategories"
+msgstr ""
+
+#: includes/pages/woopanel-product-categories.php:52
+#: includes/pages/woopanel-product-categories.php:86
+#: includes/pages/woopanel-product-tags.php:48
+msgid "Both"
+msgstr ""
+
+#: includes/pages/woopanel-product-categories.php:61
+#: includes/pages/woopanel-product-categories.php:96
+#: includes/pages/woopanel-product-categories.php:115
+#: includes/pages/woopanel-product-tags.php:58
+#: includes/pages/woopanel-product-tags.php:77
+#: includes/pages/woopanel-product.php:22
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/pages/woopanel-product-categories.php:131
+#: includes/pages/woopanel-product-tags.php:93
+msgid ""
+"This is the default category and it cannot be deleted. It will be "
+"automatically assigned to products with no category."
+msgstr ""
+
+#: includes/pages/woopanel-product.php:24
+#: views/metaboxes/product/html-product-data-inventory.php:22
+#: views/metaboxes/product/html-product-variation-admin.php:215
+#: views/metaboxes/product/html-product-variation-admin.php:427
+msgid "SKU"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:25
+msgid "Stock"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:26
+msgid "Price"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:119
+#: includes/pages/woopanel-product.php:123
+msgid "In stock"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:119
+msgid "Out of stock"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:119
+msgid "On backorder"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:141
+msgid "Grouped"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:143
+msgid "Group By"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:145
+msgid "External/Affiliate"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:149
+#: includes/pages/woopanel-product.php:314
+#: views/metaboxes/product/html-product-variation-admin.php:120
+#: views/metaboxes/product/html-product-variation-admin.php:445
+msgid "Virtual"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:151
+#: views/metaboxes/product/html-product-variation-admin.php:441
+msgid "Downloadable"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:153
+msgid "Simple"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:157
+msgid "Variable"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:159
+msgid "Subscription"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:161
+msgid "Variable Subscription"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:163
+msgid "Listings Package"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:165
+msgid "Resume Package"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:167
+msgid "Auction"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:169
+msgid "Rental"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:171
+msgid "Accommodation"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:173
+msgid "Appointment"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:175
+msgid "Bundle"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:177
+msgid "Composite"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:179
+msgid "Lottery"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:264
+msgid "Inventory"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:270 templates/orders/edit.php:183
+#: templates/orders/edit.php:932
+msgid "Shipping"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:276
+msgid "Linked Products"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:288
+msgid "Variations"
+msgstr ""
+
+#: includes/pages/woopanel-product.php:315
+msgid "Virtual products are intangible and are not shipped."
+msgstr ""
+
+#: includes/pages/woopanel-product.php:403
+#, php-format
+msgid ""
+"The stock has not been updated because the value has changed since editing. "
+"Product %1$d has %2$d units in stock."
+msgstr ""
+
+#: includes/pages/woopanel-review.php:12
+msgid "Review"
+msgstr ""
+
+#: includes/pages/woopanel-review.php:52
+msgid "Rating"
+msgstr ""
+
+#: includes/pages/woopanel-review.php:62
+msgid "Reviews updated."
+msgstr ""
+
+#: includes/woocommerce.php:51 templates/dashboard/statistic.php:28
+msgid "All Products"
+msgstr ""
+
+#: includes/woocommerce.php:115
+msgid "All Orders"
+msgstr ""
+
+#: includes/woocommerce.php:122
+msgctxt "Order status"
+msgid "Processing"
+msgstr ""
+
+#: includes/woocommerce.php:129
+msgctxt "Order status"
+msgid "On hold"
+msgstr ""
+
+#: includes/woocommerce.php:136
+msgctxt "Order status"
+msgid "Completed"
+msgstr ""
+
+#: includes/woocommerce.php:143
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr ""
+
+#: includes/woocommerce.php:152
+msgid "All coupons"
+msgstr ""
+
+#: includes/woopanel-ajax.php:172
+msgid "Sorry, you are not allowed to access this action."
+msgstr ""
+
+#: includes/woopanel-ajax.php:178
+msgid "Please enter a category name."
+msgstr ""
+
+#: includes/woopanel-functions.php:67 woopanel.php:193
+msgid "You need a higher level of permission."
+msgstr ""
+
+#: includes/woopanel-functions.php:240
+msgid "No items found."
+msgstr ""
+
+#: templates/comment/edit.php:58
+msgid "URL"
+msgstr ""
+
+#: templates/dashboard/best-product.php:44
+#, php-format
+msgid "%s %ssale%s"
+msgid_plural "%s %ssales%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/dashboard/best-product.php:55
+msgid "Your Products List Is Empty"
+msgstr ""
+
+#: templates/dashboard/best-product.php:56
+msgid "No products matching your search criteria."
+msgstr ""
+
+#: templates/dashboard/best-seller.php:9
+msgid "Best Customers"
+msgstr ""
+
+#: templates/dashboard/best-seller.php:39
+#: templates/dashboard/new-customer.php:37
+msgid "Your Customer List Is Empty"
+msgstr ""
+
+#: templates/dashboard/best-seller.php:40
+#: templates/dashboard/new-customer.php:38
+msgid "No customers matching your search criteria."
+msgstr ""
+
+#: templates/dashboard/chart-amount.php:23
+#: templates/dashboard/chart-order.php:23
+msgid "Order Status"
+msgstr ""
+
+#: templates/dashboard/chart-amount.php:52
+#: templates/dashboard/chart-order.php:52
+msgid "Filter Range"
+msgstr ""
+
+#: templates/dashboard/recent-order.php:16
+msgid "View all"
+msgstr ""
+
+#: templates/dashboard/recent-order.php:43
+msgid "Amount"
+msgstr ""
+
+#: templates/dashboard/recent-review.php:23
+#, php-format
+msgid "%s out of 5"
+msgstr ""
+
+#: templates/dashboard/recent-review.php:34
+#, php-format
+msgid "reviewed by %s"
+msgstr ""
+
+#: templates/dashboard/recent-review.php:64
+msgid "Your Reviews List Is Empty"
+msgstr ""
+
+#: templates/dashboard/recent-review.php:65
+msgid "There are no product reviews yet."
+msgstr ""
+
+#: templates/dashboard/statistic.php:9
+msgid ""
+"This is the sum of the order totals after any refunds and excluding shipping "
+"and taxes."
+msgstr ""
+
+#: templates/dashboard/statistic.php:10
+msgid "Total Revenue"
+msgstr ""
+
+#: templates/dashboard/statistic.php:13
+msgid "Net sales in this period"
+msgstr ""
+
+#: templates/dashboard/statistic.php:31
+msgid "All Product Publish"
+msgstr ""
+
+#: templates/dashboard/statistic.php:46
+msgid "Total Orders"
+msgstr ""
+
+#: templates/dashboard/statistic.php:49
+msgid "All Order Completed"
+msgstr ""
+
+#: templates/dashboard/statistic.php:64
+msgid "Total Users"
+msgstr ""
+
+#: templates/dashboard/statistic.php:67
+msgid "Joined New User"
+msgstr ""
+
+#: templates/layout-header.php:66
+msgctxt "admin bar menu group label"
+msgid "New"
+msgstr ""
+
+#: templates/layout-header.php:76
+msgid "Add New Post"
+msgstr ""
+
+#: templates/layout-header.php:110
+msgid "Go to the homepage"
+msgstr ""
+
+#: templates/layout-header.php:115
+msgid "The URL to the admin area"
+msgstr ""
+
+#: templates/layout-header.php:136
+#, php-format
+msgid "Howdy, %s"
+msgstr ""
+
+#: templates/layout-header.php:149
+msgid "My Profiles"
+msgstr ""
+
+#: templates/orders/edit.php:22 templates/orders/edit.php:73
+#: templates/orders/edit.php:755 templates/orders/edit.php:942
+msgid "First name"
+msgstr ""
+
+#: templates/orders/edit.php:26 templates/orders/edit.php:77
+#: templates/orders/edit.php:766 templates/orders/edit.php:953
+msgid "Last name"
+msgstr ""
+
+#: templates/orders/edit.php:30 templates/orders/edit.php:81
+#: templates/orders/edit.php:780 templates/orders/edit.php:967
+msgid "Company"
+msgstr ""
+
+#: templates/orders/edit.php:34 templates/orders/edit.php:85
+#: templates/orders/edit.php:793 templates/orders/edit.php:980
+msgid "Address line 1"
+msgstr ""
+
+#: templates/orders/edit.php:38 templates/orders/edit.php:89
+#: templates/orders/edit.php:804 templates/orders/edit.php:991
+msgid "Address line 2"
+msgstr ""
+
+#: templates/orders/edit.php:42 templates/orders/edit.php:93
+#: templates/orders/edit.php:819 templates/orders/edit.php:1006
+msgid "City"
+msgstr ""
+
+#: templates/orders/edit.php:46 templates/orders/edit.php:97
+#: templates/orders/edit.php:830 templates/orders/edit.php:1017
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: templates/orders/edit.php:50 templates/orders/edit.php:101
+#: templates/orders/edit.php:845 templates/orders/edit.php:1032
+msgid "Country"
+msgstr ""
+
+#: templates/orders/edit.php:54 templates/orders/edit.php:105
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: templates/orders/edit.php:57 templates/orders/edit.php:108
+#: templates/orders/edit.php:858 templates/orders/edit.php:1045
+msgid "State / County"
+msgstr ""
+
+#: templates/orders/edit.php:62
+msgid "Email address"
+msgstr ""
+
+#: templates/orders/edit.php:131 templates/orders/edit.php:625
+#, php-format
+msgid "Invoice #%d"
+msgstr ""
+
+#: templates/orders/edit.php:141 templates/orders/edit.php:745
+msgid "Billing"
+msgstr ""
+
+#: templates/orders/edit.php:141
+msgid "Edit Billing"
+msgstr ""
+
+#: templates/orders/edit.php:150
+msgid "No billing address set."
+msgstr ""
+
+#: templates/orders/edit.php:183
+msgid "Edit Shipping"
+msgstr ""
+
+#: templates/orders/edit.php:191
+msgid "Address:"
+msgstr ""
+
+#: templates/orders/edit.php:191
+msgid "No shipping address set."
+msgstr ""
+
+#: templates/orders/edit.php:215
+msgid "Customer provided note:"
+msgstr ""
+
+#: templates/orders/edit.php:224 templates/orders/edit.php:526
+msgid "Date created:"
+msgstr ""
+
+#: templates/orders/edit.php:228
+msgid "Invoice Number:"
+msgstr ""
+
+#: templates/orders/edit.php:232 templates/orders/edit.php:895
+msgid "Payment method:"
+msgstr ""
+
+#: templates/orders/edit.php:240
+msgid "List Items"
+msgstr ""
+
+#: templates/orders/edit.php:240
+msgid "Edit Item"
+msgstr ""
+
+#: templates/orders/edit.php:245 templates/orders/edit.php:631
+msgid "Item"
+msgstr ""
+
+#: templates/orders/edit.php:246 templates/orders/edit.php:632
+msgid "Cost"
+msgstr ""
+
+#: templates/orders/edit.php:247 templates/orders/edit.php:633
+msgid "Qty"
+msgstr ""
+
+#: templates/orders/edit.php:261 templates/orders/edit.php:655
+msgid "SKU:"
+msgstr ""
+
+#: templates/orders/edit.php:265 templates/orders/edit.php:659
+msgid "Variation ID:"
+msgstr ""
+
+#: templates/orders/edit.php:270 templates/orders/edit.php:664
+#, php-format
+msgid "%s (No longer exists)"
+msgstr ""
+
+#: templates/orders/edit.php:314
+msgid "Discount:"
+msgstr ""
+
+#: templates/orders/edit.php:324
+msgid "Shipping:"
+msgstr ""
+
+#: templates/orders/edit.php:339
+msgid "Tax"
+msgstr ""
+
+#: templates/orders/edit.php:384
+msgid "Order notes"
+msgstr ""
+
+#: templates/orders/edit.php:415 templates/orders/edit.php:450
+#, php-format
+msgid "%1$s @ %2$s"
+msgstr ""
+
+#: templates/orders/edit.php:416 templates/orders/edit.php:451
+msgid "Delete note"
+msgstr ""
+
+#: templates/orders/edit.php:449
+msgid "By System"
+msgstr ""
+
+#: templates/orders/edit.php:471
+msgid "There are no notes yet."
+msgstr ""
+
+#: templates/orders/edit.php:482
+msgid "Private note"
+msgstr ""
+
+#: templates/orders/edit.php:483
+msgid "Note to customer"
+msgstr ""
+
+#: templates/orders/edit.php:491
+msgid "Add note"
+msgstr ""
+
+#: templates/orders/edit.php:535 vendors/moment/min/locales.min.js:1
+msgid "h"
+msgstr ""
+
+#: templates/orders/edit.php:537 vendors/moment/min/locales.min.js:1
+msgid "m"
+msgstr ""
+
+#: templates/orders/edit.php:556
+#: views/metaboxes/product/html-product-data-linked-products.php:28
+#: views/metaboxes/product/html-product-data-linked-products.php:62
+#: views/metaboxes/product/html-product-data-linked-products.php:93
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: templates/orders/edit.php:557
+msgid "Status:"
+msgstr ""
+
+#: templates/orders/edit.php:572
+#, php-format
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr ""
+
+#: templates/orders/edit.php:584
+msgid "Customer:"
+msgstr ""
+
+#: templates/orders/edit.php:886 templates/orders/edit.php:888
+msgid "Other"
+msgstr ""
+
+#: templates/orders/edit.php:897
+msgid "N/A"
+msgstr ""
+
+#: templates/orders/edit.php:909
+msgid "Transaction ID"
+msgstr ""
+
+#: vendors/daterangepicker/moment.min.js:1 vendors/moment/min/moment.min.js:1
+msgid ": "
+msgstr ""
+
+#: vendors/moment/min/locales.min.js:1
+msgid "s"
+msgstr ""
+
+#: vendors/moment/min/locales.min.js:1
+msgid "d"
+msgstr ""
+
+#: vendors/moment/min/locales.min.js:1
+msgid "M"
+msgstr ""
+
+#: vendors/moment/min/locales.min.js:1
+msgid "y"
+msgstr ""
+
+#: views/attribute-child.php:13
+msgid ""
+"Attribute terms can be assigned to products and variations.<br/><br/"
+"><b>Note</b>: Deleting a term will remove it from all products and "
+"variations to which it has been assigned. Recreating a term will not "
+"automatically assign it back to products."
+msgstr ""
+
+#: views/attribute-child.php:26 views/taxonomy-add.php:20
+#: views/taxonomy-edit.php:20
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: views/attribute-child.php:39 views/taxonomy-add.php:32
+#: views/taxonomy-edit.php:33
+msgid ""
+"The &#8220;slug&#8221; is the URL-friendly version of the name. It is "
+"usually all lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+
+#: views/attribute-child.php:52 views/taxonomy-add.php:44
+#: views/taxonomy-edit.php:46
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr ""
+
+#: views/attribute-child.php:70 views/attribute-parent.php:83
+msgid "Add attribute"
+msgstr ""
+
+#: views/attribute-parent.php:11
+msgid ""
+"Attributes let you define extra product data, such as size or color. You can "
+"use these attributes in the shop sidebar using the \"layered nav\" widgets."
+msgstr ""
+
+#: views/attribute-parent.php:21
+msgid "Name for the attribute (shown on the front-end)."
+msgstr ""
+
+#: views/attribute-parent.php:34
+msgid ""
+"Unique slug/reference for the attribute; must be no more than 28 characters."
+msgstr ""
+
+#: views/attribute-parent.php:48
+msgid "Determines how this attribute's values are displayed."
+msgstr ""
+
+#: views/attribute-parent.php:66
+msgid "Default sort order"
+msgstr ""
+
+#: views/attribute-parent.php:68
+msgid "Custom ordering"
+msgstr ""
+
+#: views/attribute-parent.php:70
+msgid "Name (numeric)"
+msgstr ""
+
+#: views/attribute-parent.php:71
+msgid "Term ID"
+msgstr ""
+
+#: views/attribute-parent.php:73
+msgid ""
+"Determines the sort order of the terms on the frontend shop product pages. "
+"If using custom ordering, you can drag and drop the terms in this attribute."
+msgstr ""
+
+#: views/attribute.php:9
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: views/attribute.php:11
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: views/attribute.php:17
+msgid "Edit attribute"
+msgstr ""
+
+#: views/attribute.php:19
+msgid "Add new attribute"
+msgstr ""
+
+#: views/edit.php:87
+msgid "Enter title here"
+msgstr ""
+
+#: views/edit.php:106
+msgid "Excerpt"
+msgstr ""
+
+#: views/edit.php:157
+msgid "Featured Image"
+msgstr ""
+
+#: views/edit.php:165
+msgid "Gallery Images"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:5
+msgid "FAQ Section"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:19 views/faqs/admin-repeater.php:159
+msgid "Heading"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:46 views/faqs/admin-repeater.php:121
+msgid "Content"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:83
+msgid "Please add the heading before!"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:97
+msgid "Add Heading"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:98
+msgid "Add FAQ"
+msgstr ""
+
+#: views/faqs/admin-repeater.php:160
+msgid "Enter heading title"
+msgstr ""
+
+#: views/metaboxes/product/html-product-attribute.php:52
+#: views/metaboxes/product/html-product-attribute.php:86
+msgid "Value(s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-attribute.php:73
+msgid "Enter name attribute&hellip;"
+msgstr ""
+
+#: views/metaboxes/product/html-product-attribute.php:87
+#, php-format
+msgid "Enter some text, or some attributes by \"%s\" separating values."
+msgstr ""
+
+#: views/metaboxes/product/html-product-attribute.php:100
+msgid "Visible on the product page"
+msgstr ""
+
+#: views/metaboxes/product/html-product-attribute.php:120
+msgid "Used for variations"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-attributes.php:12
+msgid "Custom product attribute"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-attributes.php:61
+msgid "Save attributes"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-attributes.php:64
+msgid "Save attributes & Publish"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:16
+msgid "Product URL"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:18
+msgid "Enter the external URL to the product."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:28
+msgid "Button text"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:29
+msgctxt "placeholder"
+msgid "Buy product"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:30
+msgid "This text will be shown on the button linking to the external product."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:45
+msgid "Regular price"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:58
+msgid "Sale price"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:59
+msgid "Cancel"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:59
+#: views/metaboxes/product/html-product-variation-admin.php:151
+#: views/metaboxes/product/html-product-variation-admin.php:491
+msgid "Schedule"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:74
+msgid "Sale price dates"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:108
+#: views/metaboxes/product/html-product-variation-admin.php:649
+msgid "Downloadable files"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:113
+#: views/metaboxes/product/html-product-variation-admin.php:653
+msgid "This is the name of the download shown to the customer."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:114
+#: views/metaboxes/product/html-product-variation-admin.php:654
+msgid "File URL"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:114
+#: views/metaboxes/product/html-product-variation-admin.php:654
+msgid ""
+"This is the URL or absolute path to the file which customers will get access "
+"to. URLs entered here should already be encoded."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:142
+msgid "Add File"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:155
+#: views/metaboxes/product/html-product-variation-admin.php:359
+msgid "Download limit"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:156
+#: views/metaboxes/product/html-product-variation-admin.php:360
+msgid "Unlimited"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:157
+msgid "Leave blank for unlimited re-downloads."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:172
+#: views/metaboxes/product/html-product-variation-admin.php:379
+msgid "Download expiry"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:173
+#: views/metaboxes/product/html-product-variation-admin.php:380
+msgid "Never"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:174
+msgid ""
+"Enter the number of days before a download link expires, or leave blank."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:196
+msgid "Tax status"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:198
+msgid "Taxable"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:199
+msgid "Shipping only"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:200
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:203
+msgid ""
+"Define whether or not the entire product is taxable, or just the cost of "
+"shipping it."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:213
+#: views/metaboxes/product/html-product-variation-admin.php:611
+msgid "Tax class"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-general.php:216
+#: views/metaboxes/product/html-product-variation-admin.php:614
+msgid ""
+"Choose a tax class for this product. Tax classes are used to apply different "
+"tax rates specific to certain types of product."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:22
+#: views/metaboxes/product/html-product-variation-admin.php:427
+msgid "Stock Keeping Unit"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:24
+#: views/metaboxes/product/html-product-variation-admin.php:429
+msgid ""
+"SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
+"product and service that can be purchased."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:41
+#: views/metaboxes/product/html-product-variation-admin.php:135
+#: views/metaboxes/product/html-product-variation-admin.php:451
+msgid "Manage stock?"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:42
+msgid "Enable stock management at product level"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:58
+#: views/metaboxes/product/html-product-variation-admin.php:249
+msgid "Stock quantity"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:61
+msgid ""
+"Stock quantity. If this is a variable product this value will be used to "
+"control stock for all variations, unless you define stock at variation level."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:78
+#: views/metaboxes/product/html-product-variation-admin.php:269
+msgid "Allow backorders?"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:81
+msgid ""
+"If managing stock, this controls whether or not backorders are allowed. If "
+"enabled, stock quantity can go below 0."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:93
+msgid "Low stock threshold"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:96
+msgid "When product stock reaches this amount you will be notified by email"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:116
+#: views/metaboxes/product/html-product-variation-admin.php:230
+#: views/metaboxes/product/html-product-variation-admin.php:531
+msgid "Stock status"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:119
+#: views/metaboxes/product/html-product-variation-admin.php:534
+msgid ""
+"Controls whether or not the product is listed as \"in stock\" or \"out of "
+"stock\" on the frontend."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:137
+msgid "Sold individually"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-inventory.php:138
+msgid ""
+"Enable this to only allow one of this item to be bought in a single order"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:29
+msgid "Grouped products"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:31
+msgid "This lets you choose which products are part of this group."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:63
+msgid "Upsells"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:65
+msgid ""
+"Upsells are products which you recommend instead of the currently viewed "
+"product, for example, products that are more profitable or better quality or "
+"more expensive."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:94
+msgid "Cross-sells"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-linked-products.php:96
+msgid ""
+"Cross-sells are products which you promote in the cart, based on the current "
+"product."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:15
+msgid "Weight"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:18
+#: views/metaboxes/product/html-product-variation-admin.php:554
+msgid "Weight in decimal form"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:31
+#, php-format
+msgid "Dimensions (%s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:36
+#: views/metaboxes/product/html-product-variation-admin.php:580
+msgid "Length"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:44
+#: views/metaboxes/product/html-product-variation-admin.php:582
+msgid "Height"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:47
+msgid "LxWxH in decimal form"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:59
+#: views/metaboxes/product/html-product-variation-admin.php:325
+msgid "Shipping class"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:65
+msgid "No shipping class"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-shipping.php:71
+msgid ""
+"Shipping classes are used by certain shipping methods to group similar "
+"products."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:25
+msgid "Default Form Values"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:25
+msgid "These are the attributes that will be pre-selected on the frontend."
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:35
+#, php-format
+msgid "No default %s&hellip;"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:59
+msgid "Add variation"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:60
+msgid "Create variations from all attributes"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:61
+msgid "Delete all variations"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:63
+msgid "Go"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:79
+msgid "Go to the previous page"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:81
+msgid "Select Page"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:82
+msgid "Current page"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:87
+msgctxt "number of pages"
+msgid "of"
+msgstr ""
+
+#: views/metaboxes/product/html-product-data-variations.php:89
+msgid "Go to the next page"
+msgstr ""
+
+#: views/metaboxes/product/html-product-download.php:9
+#: views/metaboxes/product/html-product-variation-download.php:8
+msgid "File name"
+msgstr ""
+
+#: views/metaboxes/product/html-product-download.php:12
+#: views/metaboxes/product/html-product-variation-download.php:11
+msgid "http://"
+msgstr ""
+
+#: views/metaboxes/product/html-product-download.php:13
+#: views/metaboxes/product/html-product-variation-download.php:12
+msgid "Choose file"
+msgstr ""
+
+#: views/metaboxes/product/html-product-download.php:13
+#: views/metaboxes/product/html-product-variation-download.php:12
+msgid "Insert file URL"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:33
+#, php-format
+msgid "Any %s&hellip;"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:55
+msgid "Remove"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:74
+#: views/metaboxes/product/html-product-variation-admin.php:437
+msgid "Enabled"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:88
+msgid "xDownloadable"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:103
+#: views/metaboxes/product/html-product-variation-admin.php:475
+msgid "Variation price (required)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:105
+#: views/metaboxes/product/html-product-variation-admin.php:463
+#, php-format
+msgid "Regular price (%s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:151
+#: views/metaboxes/product/html-product-variation-admin.php:481
+#, php-format
+msgid "Sale price (%s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:151
+#: views/metaboxes/product/html-product-variation-admin.php:491
+msgid "Cancel schedule"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:174
+#: views/metaboxes/product/html-product-variation-admin.php:501
+msgid "Sale start date"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:192
+#: views/metaboxes/product/html-product-variation-admin.php:505
+msgid "Sale end date"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:296
+#: views/metaboxes/product/html-product-variation-admin.php:612
+msgid "Same as parent"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:415
+msgid "Remove this image"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:415
+msgid "Upload an image"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:440
+msgid ""
+"Enable this option if access is given to a downloadable file upon purchase "
+"of a product"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:444
+msgid ""
+"Enable this option if a product is not shipped or there is no shipping cost"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:450
+msgid "Enable this option to enable stock management at variation level"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:542
+#, php-format
+msgid "Weight (%s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:573
+#, php-format
+msgid "Dimensions (L&times;W&times;H) (%s)"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:578
+msgid "Length x width x height in decimal form"
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:641
+msgid "Enter an optional description for this variation."
+msgstr ""
+
+#: views/metaboxes/product/html-product-variation-admin.php:681
+msgid "Add file"
+msgstr ""
+
+#: views/metaboxes/product/panel.php:6
+msgid "Product data"
+msgstr ""
+
+#: views/metaboxes/product/panel.php:18
+msgid "Product Type"
+msgstr ""
+
+#: woopanel.php:165
+msgid "Seller Center"
+msgstr ""
+
+#: woopanel.php:181
+msgid "Visit Seller Center"
+msgstr ""
+
+#: woopanel.php:199
+msgid "View settings"
+msgstr ""

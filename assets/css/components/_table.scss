@@ -1,0 +1,201 @@
+.wpl-datatable__row {
+    > .wpl-datatable__cell {
+		position: relative;
+        padding: 16px 10px;
+        vertical-align: middle;
+        font-size: 1rem;
+        border: 0;
+		min-width: 100px;
+		
+		&.wpl-datatable__cell--check {
+			width: 55px;
+			min-width: inherit;
+			padding-left: 20px;
+			
+			> span {
+			    position: relative;
+				top: 3px;
+			}
+		}
+
+        &.wpl-datatable__cell--center {
+            text-align: center;
+            .m-checkbox--brand {
+                padding: 0;
+                margin: 0;
+            }
+        }
+		
+		* {
+			white-space: nowrap;
+		}
+
+        &.column-title {
+          min-width: 180px;
+          position: relative;
+          .row-title {
+            white-space: normal;
+            word-wrap: break-word;
+          }
+        }
+    }
+}
+
+.wpl-datatable__head {
+    .wpl-datatable__row {
+        > .wpl-datatable__cell {
+            border: 0;
+            font-weight: 600;
+            background: #f4f3f8;
+        }
+    }
+}
+
+.wpl-datatable__body {
+    .wpl-datatable__row {
+        &:nth-child(even) {
+            td {
+                background: #faf9fc;
+            }
+        }
+		
+		> .wpl-datatable__cell {
+			&.column-categories {
+				max-width: 150px;
+			}
+			
+			.woopanel-readmore {
+				white-space: unset;
+			}
+		}
+    }
+}
+
+.comment-grey-bubble {
+    margin-top: 4px;
+    display: block;
+    height: 16px;
+    width: 16px;
+
+    &:before {
+        font: 400 20px/.5 dashicons;
+        content: "\f101";
+        font-family: 'dashicons';
+        speak: none;
+        display: inline-block;
+        padding: 0;
+        top: 4px;
+        position: relative;
+        vertical-align: top;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-decoration: none !important;
+        color: #444;
+    }
+}
+
+.m-datatable.m-datatable--default > .m-datatable__pager {
+    margin-top: 10px;
+}
+
+.column-comments {
+  .post-com-count-wrapper {
+    white-space: nowrap;
+    word-wrap: normal;
+    .post-com-count {
+      text-decoration: none;
+    }
+    @media screen and (max-width: 782px) {
+      white-space: normal;
+      & > a {
+        display: block;
+      }
+    }
+  }
+  .post-com-count {
+    display: inline-block;
+    vertical-align: top;
+    @media screen and (max-width: 782px) {
+      [aria-hidden=true] {
+        display: none;
+      }
+      .screen-reader-text {
+        position: static!important;
+        -webkit-clip-path: none;
+        clip-path: none;
+        width: auto;
+        height: auto;
+        margin: 0;
+      }
+    }
+  }
+  .post-com-count-approved,
+  .post-com-count-no-comments {
+    margin-top: 5px;
+    &:after {
+      content: "";
+      display: block;
+      margin-left: 8px;
+      width: 0;
+      height: 0;
+      border-top: 5px solid #72777c;
+      border-right: 5px solid transparent;
+    }
+    @media screen and (max-width: 782px) {
+      margin-top: 0;
+      margin-right: .5em;
+      &:after { display: none; }
+    }
+  }
+
+  .post-com-count-no-pending {
+    display: none;
+  }
+
+  .comment-count-approved,
+  .comment-count-no-comments {
+    box-sizing: border-box;
+    display: block;
+    padding: 0 8px;
+    min-width: 24px;
+    height: 2em;
+    border-radius: 5px;
+    background-color: #72777c;
+    color: #fff;
+    font-size: 11px;
+    line-height: 21px;
+    text-align: center;
+  }
+  .post-com-count-pending {
+    position: relative;
+    left: -3px;
+    padding: 0 5px;
+    min-width: 7px;
+    height: 21px;
+    border: 2px solid #fff;
+    border-radius: 11px;
+    background: #ca4a1f;
+    color: #fff;
+    font-size: 9px;
+    line-height: 17px;
+    text-align: center;
+    @media screen and (max-width: 782px) {
+      position: static;
+      height: auto;
+      min-width: 0;
+      padding: 0;
+      border: none;
+      border-radius: 0;
+      background: 0 0;
+      color: #bb2a2a;
+      font-size: inherit;
+      line-height: inherit;
+      text-align: left;
+    }
+  }
+}
+#m-listtable-shop_order {
+  .column-title {
+    padding-right: 30px;
+  }
+}

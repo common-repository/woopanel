@@ -1,0 +1,63 @@
+*[class*='mce-'] {
+	-webkit-border-radius: 0!important;
+	-moz-border-radius: 0!important;
+	border-radius: 0!important;
+}	
+.mce-tinymce {
+	background: #fff;
+	filter: none;
+	border: 0;
+	box-shadow: none;
+	.mce-top-part {
+		&:before {
+			display: none;
+		}
+		.mce-toolbar-grp {
+			background-color: #fff;
+
+			.mce-toolbar {
+				.mce-container-body {
+					text-align: center;
+				}
+				.mce-btn {
+					&, &.mce-disabled{
+						background: none!important;
+						filter: none!important;
+						border: 0;
+						-webkit-box-shadow: none!important;
+						-moz-box-shadow: none!important;
+						box-shadow: none!important;
+					}
+					&.mce-disabled {
+						opacity: .4!important;
+						filter: alpha(opacity=40)!important;
+					}
+					&:hover { background: #fafafa!important; }
+					&.mce-active { background: #eee!important; }
+					button {
+						padding-top: 3px;
+						padding-bottom: 3px;
+						background-color: transparent;
+					}
+					i { color: #555; }
+					&:hover i { color: #333; }
+				}
+			}
+		}
+	}
+	.mce-edit-area {
+	}
+	.mce-statusbar {
+		.mce-path-item {
+			text-transform: lowercase;
+		}
+	}
+}
+.mce-floatpanel.mce-popover,
+.mce-menu {
+	box-shadow: none!important;
+}
+.mce-menu {
+	transform: none!important;
+	transform-origin: unset!important;
+}

@@ -1,0 +1,126 @@
+#nbt-repeater{
+	padding: 10px;
+
+}
+#nbt_faqs_repeater .inside {
+    margin: 0;
+    padding: 0;
+}
+.repeater-row{
+	border: 1px solid #e5e5e5;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+	 margin-bottom: 10px;
+}
+#nbt-repeater .repeater-row:last-child{
+	margin-bottom: 15px;
+}
+.repeater-heading{
+	cursor: pointer;
+	background: #fafafa;
+	color: #23282d;
+	padding: 10px 0px 10px 15px;
+	font-weight: 700;
+
+}
+.repeater-row:hover .repeater-heading{
+	border-color: #999;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+	box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+.repeater-heading span{
+	color: #666;
+}
+.nbt-repeater-arrow{
+    float: right;
+    position: relative;
+    border: 0;
+    background: transparent;
+
+}
+*{
+	outline: 0 !important;
+}
+.repeater-heading .nbt-toggle-indicator:before{
+	content: "\f140";
+    font: normal 20px/1 dashicons;
+    speak: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-decoration: none !important;
+    position: relative;
+    top: -2px;
+}
+.repeater-row.open .repeater-heading .nbt-toggle-indicator:before{
+	content: "\f142";
+}
+.repeater-content{
+	display: none;
+	padding: 10px 15px;
+}
+.repeater-content p{
+	margin: 0;
+	padding: 0;
+}
+.nbt-heading-btn-add{
+	margin-right: 10px !important;
+}
+.row-heading{
+    padding: 0 15px;
+    background: #fafafa;
+    color: #000;
+}
+#nbt-repeater-wrap label{
+    font-weight: 700;
+    margin-bottom: 5px;
+    display: block;
+    margin-top: 10px;
+}
+.faq-action-row{
+	margin-top: 6px;
+}
+.row-heading p{
+	margin-bottom: 0;
+}
+.faq-action-row{
+	margin-bottom: 10px;
+}
+.nbt-repeater-order{
+    cursor: move;
+}
+.faq-col{
+	float: left;
+	width: 50%;
+	padding: 0 15px;
+	box-sizing: border-box;
+}
+.faq-row{
+	margin: 0 -15px;
+}
+.faq-row:before, .faq-row:after {
+    display: table;
+    content: " ";
+}
+.faq-row:after{
+    clear: both;
+}
+.faq-product-type .faq_title, .faq-product-type .heading_title{
+	width: 100%;
+}
+span.shortcode > input {
+	font-family: Consolas, Monaco, monospace;
+    background: inherit;
+    color: inherit;
+    font-size: 12px;
+    border: none;
+    box-shadow: none;
+    padding: 4px 8px;
+    margin: 0;
+}
+.post-type-product .nbt-repeater-action {
+	margin-top: 11px;
+}
+.post-type-product .nbt-repeater-action .nbt-heading-product-add {
+	margin-right: 9px;
+}

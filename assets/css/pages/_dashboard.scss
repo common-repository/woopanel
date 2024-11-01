@@ -1,0 +1,187 @@
+.recent-order-wrapper {
+	.m-portlet__head-desc {
+	    margin-left: 10px;
+		margin-top: 3px;
+	    font-size: 0.85rem;
+		font-weight: 300;
+		color: #afb2c1;
+	}
+
+	.table {
+		thead > tr > td {
+			white-space: nowrap;
+		}
+		
+		tbody > tr > td {
+			min-width: 100px;
+			white-space: nowrap;
+			font-weight: 300;
+
+			&.dashboard-col-order {
+				min-width: inherit;
+				width: 40px;
+			}
+		}
+	}
+}
+
+#dashboard-new-customer-wrapper {
+	.dnc-date {
+		@include respond-to(wxga) {
+			display: none;
+		}
+		
+		@include respond-to(large) {
+			display: block;
+		}
+		
+		@include respond-to(iphone) {
+			display: none;
+		}
+	}
+}
+
+#dashboard-best-seller-wrapper {
+	.m-widget4__img--logo {
+		@include respond-to(wxga) {
+			display: none;
+		}
+		
+		@include respond-to(large) {
+			display: block;
+		}
+		
+		@include respond-to(iphone) {
+			display: none;
+		}
+	}
+	
+	.m-widget4__info {
+		@include respond-to(wxga) {
+			padding-left: 0;
+		}
+		
+		@include respond-to(large) {
+			padding-left: 1.2rem;
+		}
+		
+		@include respond-to(iphone) {
+			padding-left: 0;
+		}
+		
+	}
+}
+
+#chart-order-wrapper,
+#chart-amount-wrapper {
+	.m-portlet__head {
+		
+		
+		@include respond-to(android) {
+			flex-wrap: wrap;
+			padding: 2rem 2.2rem 1.5rem 2.2rem;
+			height: auto;
+		}
+		
+		.m-portlet__head-caption {
+			@include respond-to(android) {
+				width: 100%;
+			}
+		}
+		
+		.m-portlet__head-tools {
+			position: relative;
+			
+			@include respond-to(android) {
+				width: 100%;
+			}
+			
+			@include respond-to(iphone) {
+				margin-top: 10px;
+			}
+			
+			.m-tabs-price {
+				@include respond-to(iphone) {
+					position: absolute;
+					right: 0;
+					top: -35px;
+				}
+			}
+			
+			.m-chart-status {
+				@include respond-to(iphone) {
+					margin-left: 0;
+					padding-left: 0;
+				}
+				
+
+			}
+			
+			.m-portlet__nav-item {
+				@include respond-to(phone) {
+					padding: 0;
+					margin: 0;
+					width: 100%;
+					justify-content: center;
+				}
+				
+				
+				&.m-chart-status {
+					@include respond-to(phone) {
+						margin-bottom: 10px;
+					}
+				}
+			}
+		}
+	}
+}
+
+.dashboard-best-products {
+
+	.m-widget5 .m-widget5__item .m-widget5__content {
+		.m-widget5__pic {
+			@include respond-to(iphone) {
+				display: block;
+				width: auto;
+			}
+			
+			img {
+				@include respond-to(iphone) {
+					max-width: 100%;
+					width: auto !important;
+					height: auto;
+				}
+			}
+		}
+		
+		.m-widget5__section {
+			@include respond-to(iphone) {
+				padding: 15px 0 0 0;
+			}
+		}
+		
+		.m-widget5__stats1 {
+			@include respond-to(iphone) {
+				text-align: left;
+			}
+		}
+	}
+}
+
+#dashboard-wrapper {
+	.dashboard-box {
+	    margin-bottom: 2.2rem;
+		
+		&.empty-container {
+			border: 3px dashed #b4b9be;
+			height: 250px;
+			position: relative;
+		}
+	}
+	
+	.sortable-placeholder {
+		border: 1px dashed #b4b9be;
+		margin-bottom: 2.2rem;
+	    height: 50px;
+	}
+}

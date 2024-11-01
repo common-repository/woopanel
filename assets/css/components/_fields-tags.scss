@@ -1,0 +1,45 @@
+.tagchecklist {
+  display: none;
+  margin: 12px 0 12px 14px;
+  font-size: 12px;
+  overflow: auto;
+  padding: 0;
+  list-style: none;
+
+  &>li {
+    float: left;
+    margin-right: 25px;
+    font-size: 13px;
+    line-height: 1.8em;
+    cursor: default;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .ntdelbutton {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    border: none;
+    margin: 0 0 0 -19px;
+    padding: 0;
+    background: 0 0;
+    cursor: pointer;
+    text-indent: 0;
+    .remove-tag-icon {
+      &:before {
+        background: 0 0;
+        color: #72777c;
+        content: "\f153";
+        display: block;
+        font: 400 16px/20px dashicons;
+        speak: none;
+        height: 20px;
+        text-align: center;
+        width: 20px;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+    }
+  }
+}

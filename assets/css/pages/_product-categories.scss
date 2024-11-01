@@ -1,0 +1,27 @@
+.taxonomy-lists {
+	.m-form__group {
+		padding-top: 0;
+	}
+	
+	.column-image {
+		min-width: auto;
+		width: 50px;
+		
+		img {
+			border: 1px solid #f7f7f7;
+		}
+	}
+	
+	.column-description {
+		white-space: nowrap;
+		padding-right: 50px;
+	}
+	
+	.column-count {
+		text-align: center;
+	}
+	
+	.submitdelete {
+		color: #bf0d0d;
+	}
+}
